@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Custom.Authorization.Control.Approach", "AspNetCore.Custom.Authorization.Control.Approach\AspNetCore.Custom.Authorization.Control.Approach.csproj", "{4C1F77AA-732E-4B4D-AD6B-3E333F41C5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1F77AA-732E-4B4D-AD6B-3E333F41C5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1F77AA-732E-4B4D-AD6B-3E333F41C5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1F77AA-732E-4B4D-AD6B-3E333F41C5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1F77AA-732E-4B4D-AD6B-3E333F41C5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C7CB50-F420-4DF8-AA1E-824E0F57A09B}
+	EndGlobalSection
+EndGlobal
